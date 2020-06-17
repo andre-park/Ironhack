@@ -213,6 +213,7 @@ Reported 08-Jan-2017,2017,AUSTRALIA,Spearfishing,Kerry Daniel,M,UNKNOWN,2010
 26-Sep-2016,2016,AUSTRALIA,Surfing,Cooper Allen,M,N,2010
 18-Sep-2016,2016,USA,Surfing,male,M,N,2010
 18-Sep-2016,2016,USA,Surfing,Chucky Luciano,M,N,2010
+18-Sep-2016,2016,USA,Surfing,male,M,N,2010
 17-Sep-2016,2016,USA,Surfing,Yuma,M,N,2010
 17-Sep-2016,2016,AUSTRALIA,Surfing,Rory Angiolella,M,N,2010
 16-Sep-2016,2016,AUSTRALIA,Surfing,male,M,N,2010
@@ -569,6 +570,7 @@ Reported 10-May-2014,2014,USA,Diving,Jimmy Roseman,M,UNKNOWN,2010
 Reported 12-Apr-2014,2014,SOUTH AFRICA,Shark watching,Inflatable boat,UNKNOWN,N,2010
 12-Apr-2014,2014,SOUTH AFRICA,Fishing,Lionel McDougall,M,N,2010
 04-Apr-2014,2014,USA,Surfing,male,M,N,2010
+04-Apr-2014,2014,USA,Surfing,male,M,N,2010
 03-Apr-2014,2014,AUSTRALIA,Swimming,Christine Armstrong,F,Y,2010
 29-Mar-2014,2014,AUSTRALIA,Diving for lobsters,Michael McGregor,M,UNKNOWN,2010
 22-Mar-2014,2014,SOUTH AFRICA,Swimming,Friedrich Burgstaller.,M,Y,2010
@@ -782,6 +784,7 @@ Reported 28-Jun-2012,2012,CROATIA,Swimming,,UNKNOWN,UNKNOWN,2010
 18-Jun-2012,2012,USA,Wading,Brooklyn Daniel,F,N,2010
 15-Jun-2012,2012,USA,Fishing,male,M,N,2010
 14-Jun-2012,2012,USA,Swimming,female,F,N,2010
+14-Jun-2012,2012,USA,Swimming,male,M,N,2010
 14-Jun-2012,2012,USA,Swimming,male,M,N,2010
 14-Jun-2012,2012,USA,Swimming,Jordon Garosalo,M,N,2010
 12-Jun-2012,2012,AUSTRALIA,Surfing,Mike Higgins,M,N,2010
@@ -1206,6 +1209,7 @@ Dec-2008,2008,MOZAMBIQUE,Spearfishing,Darryl Kriel,M,Y,2000
 09-Sep-2008,2008,USA,Surfing,Todd Murashige,M,N,2000
 08-Sep-2008,2008,USA,Surfing,Kyle K.,M,N,2000
 07-Sep-2008,2008,AUSTRALIA,Surfing,John Morgan,M,N,2000
+06-Sep-2008,2008,USA,Surfing,male,M,N,2000
 06-Sep-2008,2008,USA,Surfing,male,M,N,2000
 01-Sep-2008,2008,USA,Surfing,Joe McGauley,M,N,2000
 Sep-2008,2008,USA,Surfing,Daryl Zbar,M,N,2000
@@ -2363,6 +2367,7 @@ Reported 28-Oct-1995,1995,USA,Boogie boarding,Matthew Beyrer,M,N,1990
 01-Aug-1995,1995,TONGA,Fishing,Jim McManus,M,UNKNOWN,1990
 Aug-1995,1995,USA,Diving,Marco Carme,M,UNKNOWN,1990
 28-Jul-1995,1995,USA,Surfing,male,M,N,1990
+28-Jul-1995,1995,USA,Surfing,male,M,N,1990
 28-Jul-1995,1995,USA,Surfing,Patrick Moore,M,N,1990
 28-Jul-1995,1995,USA,Standing,Eric Kozak,M,N,1990
 28-Jul-1995,1995,USA,,male,M,N,1990
@@ -2806,6 +2811,7 @@ Dec-1986,1986,NEW CALEDONIA,Spearfishing,Maurice Lilloux,UNKNOWN,N,1980
 01-Oct-1986,1986,AUSTRALIA,,Crawford,UNKNOWN,UNKNOWN,1980
 Oct-1986,1986,USA,Surfing,Ron Dubois,M,N,1980
 Reported 22-Sep-1986 ,1986,USA,,,UNKNOWN,UNKNOWN,1980
+Sep-1986,1986,USA,Surfing,Anonymous,UNKNOWN,N,1980
 Sep-1986,1986,USA,Surfing,Anonymous,UNKNOWN,N,1980
 19-Aug-1986,1986,USA,Surfing,J. McCorley,UNKNOWN,N,1980
 10-Aug-1986,1986,SOUTH AFRICA,Spearfishing,Phllip DeBruyn,M,UNKNOWN,1980
@@ -4122,6 +4128,7 @@ Jul- to Sep-1959,1959,INDIA,,,UNKNOWN,Y,1950
 1959,1959,PAPUA NEW GUINEA,Spear fishing,male,M,N,1950
 1959,1959,PAPUA NEW GUINEA,Fishing,male,M,N,1950
 1959,1959,PAPUA NEW GUINEA,,Pasinganlas,M,Y,1950
+1959,1959,PAPUA NEW GUINEA,Fishing,male,M,N,1950
 28-Dec-1958,1958,TURKEY,Fishing,Fishing boat. Occupants: Yunus Potur & Ali Durmaz,UNKNOWN,UNKNOWN,1950
 27-Dec-1958,1958,PAPUA NEW GUINEA,,Anonymous,UNKNOWN,N,1950
 23-Dec-1958,1958,SOUTH AFRICA,Swimming,Barry Geldenhuys,M,Y,1950
@@ -4171,6 +4178,7 @@ Reported 09-Jan-1958,1958,JAPAN,,male,M,UNKNOWN,1950
 1958,1958,SAMOA,Placed hand in disemboweled sharks jaws,Takai Otiai,UNKNOWN,N,1950
 1958,1958,PANAMA,Skindiving,boy,M,N,1950
 1958,1958,PAPUA NEW GUINEA,,Anonymous,UNKNOWN,Y,1950
+1958,1958,PAPUA NEW GUINEA,Spearfishing,male,M,Y,1950
 1958,1958,PAPUA NEW GUINEA,Spearfishing,male,M,Y,1950
 1958,1958,PAPUA NEW GUINEA,"Fishing, holding fish",male x 3,M,N,1950
 1958,1958,SOUTH AFRICA,Fishing (trolling),ski-boat,UNKNOWN,N,1950
@@ -4683,6 +4691,7 @@ Summer 1943,1943,MEXICO,Swimming,a U.S. citizen,UNKNOWN,Y,1940
 1943,1943,SOLOMON ISLANDS,Swimming,"U.S. soldier in 161st Infantry Regiment, 25th Infantry Division",M,N,1940
 1943,1943,IRAQ,Swimming,Syed Khaleeulla ,M,N,1940
 Fall 1943,1943,USA,Spearfishing, 2 males,M,N,1940
+Fall 1943,1943,USA,Spearfishing, 2 males,M,N,1940
 1943,1943,USA,,male,M,UNKNOWN,1940
 26-Dec-1942,1942,AUSTRALIA,Dog paddling or standing,Denise Rosemary Burch,F,Y,1940
 28-Nov-1942,1942,SOUTH AFRICA,U-177 torpedoed & sank the troopship Nova Scotia,Sammy Levine & his pet parrot,M,Y,1940
@@ -4717,6 +4726,7 @@ Jan-1942,1942,AUSTRALIA,Surf-skiing,male,M,N,1940
 1942,1942,INDONESIA,Captured Allied soldiers were squeezed into 3' bamboo pig baskets & fed to waiting sharks,200 soldiers,M,Y,1940
 Winter 1942,1942,AUSTRALIA,Fishing for perch,Storm King; occupants - George Bridge & 2 sons,M,N,1940
 Summer 1942,1942,PHILIPPINES,"Sailing from Gingood, Misamis Oriental to Sagay (normally a 2-day voyage) capsized with 6 on board, three men were taken by sharks when they attempted to swim to shore.",Andong & 2 others,M,Y,1940
+1942,1942,SOUTH AFRICA,,boat,UNKNOWN,N,1940
 1942,1942,SOUTH AFRICA,,boat,UNKNOWN,N,1940
 1942,1942,BAHAMAS,Swimming along side N.E.L. vessel Saluda,Herbert J. Mann,M,N,1940
 1942,1942,UNDEFINED,Jumped overboard from torpedoed Panamanian freighter,male,M,Y,1940
@@ -5703,6 +5713,7 @@ Reported 03-Mar-1890,1890,CEYLON,Diving,a pearl diver,M,Y,1890
 25-Feb-1890,1890,MALTA,"Fishing boat with 4 men on board was rammed & capsized by  a shark, throwing all occupants into the water",Salvatore & Agostino Bugeja,M,Y,1890
 1890 ,1890,AUSTRALIA,Wading,Frederick Sampson Johnson,M,N,1890
 1890,1890,INDIA,Diving,a pearl diver,M,UNKNOWN,1890
+1890,1890,INDIA,Diving,a pearl diver,M,UNKNOWN,1890
 1890,1890,NEW ZEALAND,Swimming,soldier ,M,Y,1890
 Ca. 1890,1890,SOUTH AFRICA,Bathing,Zulu boy,M,Y,1890
 Reported 29-Nov-1889,1889,GREECE,,,UNKNOWN,UNKNOWN,1880
@@ -6283,6 +6294,7 @@ Before 19-Jul-1913,1912,SOUTH AFRICA,Wading,a young Scotsman,M,Y,1910
 Before 1911,1910,ASIA?,Swimming,Mr. Masury,M,N,1910
 Circa 1862,1862,USA,,"A ""chiefess""",F,N,1860
 Before 1906,1905,AUSTRALIA,Fishing,boy,M,Y,1900
+Before 1906,1905,AUSTRALIA,Fishing,fisherman,M,Y,1900
 Before 1906,1905,AUSTRALIA,Fishing,fisherman,M,Y,1900
 Before 1906,1905,AUSTRALIA,Swimming,Arab boy,M,Y,1900
 Before 1903,1902,AUSTRALIA,Diving,male,M,Y,1900
